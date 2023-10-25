@@ -17,14 +17,19 @@
   gap: 30px;
 }
 .item-price-new {
+  border: 1px solid #aeaeae;
+  background: #aeaeae;
   padding: 3px;
   border-radius: 3px;
-  color: #df1a1a;
+  color: #ee2525;
   font-size: 18px;
   font-weight: 600;
 }
 .item-price-old {
+  border: 1px solid #313131;
   color: #8c8c8c;
+  padding: 3px;
+  border-radius: 3px;
   font-size: 18px;
   font-weight: 500;
   text-decoration: line-through;
